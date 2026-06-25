@@ -1,4 +1,4 @@
-# 🤖 Pre-entrega Automation Testing — Saucedemo
+# 🤖 Automation Testing — Saucedemo
 
 Automatización de pruebas sobre [saucedemo.com](https://www.saucedemo.com) usando Python, Selenium WebDriver y Pytest.
 
